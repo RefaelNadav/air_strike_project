@@ -1,0 +1,122 @@
+[
+    {
+        "Tehran": {
+            "main": "Clear",
+            "clouds": 4,
+            "wind_speed": 0.73,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    {
+        "Baghdad": {
+            "main": "Clear",
+            "clouds": 0,
+            "wind_speed": 6.25,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    {
+        "Damascus": {
+            "main": "Clear",
+            "clouds": 0,
+            "wind_speed": 3.66,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    {
+        "Kabul": {
+            "main": "Clear",
+            "clouds": 0,
+            "wind_speed": 0.59,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    {
+        "Sanaa": {
+            "main": "Clouds",
+            "clouds": 98,
+            "wind_speed": 0.73,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    {
+        "Riyadh": {
+            "main": "Clear",
+            "clouds": 8,
+            "wind_speed": 1.04,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    {
+        "Cairo": {
+            "main": "Clear",
+            "clouds": 0,
+            "wind_speed": 5.11,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    {
+        "Beirut": {
+            "main": "Clear",
+            "clouds": 0,
+            "wind_speed": 2.56,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    {
+        "Amman": {
+            "main": "Clear",
+            "clouds": 0,
+            "wind_speed": 1.63,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    {
+        "Tripoli": {
+            "main": "Rain",
+            "clouds": 51,
+            "wind_speed": 6.41,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    {
+        "Khartoum": {
+            "main": "Clouds",
+            "clouds": 53,
+            "wind_speed": 3.06,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    {
+        "Mosul": {
+            "main": "Clear",
+            "clouds": 0,
+            "wind_speed": 3.9,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    {
+        "Fallujah": {
+            "main": "Clear",
+            "clouds": 0,
+            "wind_speed": 5.48,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    {
+        "Kandahar": {
+            "main": "Clear",
+            "clouds": 0,
+            "wind_speed": 1.52,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    {
+        "Marrakesh": {
+            "main": "Clouds",
+            "clouds": 27,
+            "wind_speed": 1.93,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    }
+]

@@ -1,0 +1,197 @@
+{
+    "Tehran": {
+        "priority": 5,
+        "location": {
+            "lat": 35.6892523,
+            "lon": 51.3896004
+        },
+        "weather": {
+            "main": "Clear",
+            "clouds": 3,
+            "wind_speed": 0.68,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    "Baghdad": {
+        "priority": 5,
+        "location": {
+            "lat": 33.3061701,
+            "lon": 44.3872213
+        },
+        "weather": {
+            "main": "Clear",
+            "clouds": 0,
+            "wind_speed": 6.07,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    "Damascus": {
+        "priority": 5,
+        "location": {
+            "lat": 33.5130695,
+            "lon": 36.3095814
+        },
+        "weather": {
+            "main": "Clear",
+            "clouds": 0,
+            "wind_speed": 3.47,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    "Kabul": {
+        "priority": 4,
+        "location": {
+            "lat": 34.5260109,
+            "lon": 69.1776838
+        },
+        "weather": {
+            "main": "Clear",
+            "clouds": 0,
+            "wind_speed": 0.49,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    "Sanaa": {
+        "priority": 4,
+        "location": {
+            "lat": 15.3538569,
+            "lon": 44.2058841
+        },
+        "weather": {
+            "main": "Clouds",
+            "clouds": 100,
+            "wind_speed": 1.49,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    "Riyadh": {
+        "priority": 4,
+        "location": {
+            "lat": 24.638916,
+            "lon": 46.7160104
+        },
+        "weather": {
+            "main": "Clear",
+            "clouds": 8,
+            "wind_speed": 1.68,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    "Cairo": {
+        "priority": 3,
+        "location": {
+            "lat": 30.0443879,
+            "lon": 31.2357257
+        },
+        "weather": {
+            "main": "Clear",
+            "clouds": 0,
+            "wind_speed": 5.24,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    "Beirut": {
+        "priority": 3,
+        "location": {
+            "lat": 33.8959203,
+            "lon": 35.47843
+        },
+        "weather": {
+            "main": "Clear",
+            "clouds": 0,
+            "wind_speed": 2.6,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    "Amman": {
+        "priority": 3,
+        "location": {
+            "lat": 31.9515694,
+            "lon": 35.9239625
+        },
+        "weather": {
+            "main": "Clear",
+            "clouds": 0,
+            "wind_speed": 1.7,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    "Tripoli": {
+        "priority": 2,
+        "location": {
+            "lat": 32.896672,
+            "lon": 13.1777923
+        },
+        "weather": {
+            "main": "Rain",
+            "clouds": 43,
+            "wind_speed": 6.62,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    "Khartoum": {
+        "priority": 2,
+        "location": {
+            "lat": 15.5635972,
+            "lon": 32.5349123
+        },
+        "weather": {
+            "main": "Clouds",
+            "clouds": 21,
+            "wind_speed": 3.15,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    "Mosul": {
+        "priority": 2,
+        "location": {
+            "lat": 36.3415843,
+            "lon": 43.1291386
+        },
+        "weather": {
+            "main": "Clear",
+            "clouds": 0,
+            "wind_speed": 3.92,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    "Fallujah": {
+        "priority": 1,
+        "location": {
+            "lat": 33.3532137,
+            "lon": 43.7875674
+        },
+        "weather": {
+            "main": "Clear",
+            "clouds": 0,
+            "wind_speed": 5.24,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    "Kandahar": {
+        "priority": 1,
+        "location": {
+            "lat": 31.6205738,
+            "lon": 65.7157573
+        },
+        "weather": {
+            "main": "Clear",
+            "clouds": 0,
+            "wind_speed": 1.64,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    },
+    "Marrakesh": {
+        "priority": 1,
+        "location": {
+            "lat": 31.6258257,
+            "lon": -7.9891608
+        },
+        "weather": {
+            "main": "Clear",
+            "clouds": 8,
+            "wind_speed": 1.97,
+            "dt_txt": "2024-09-13 00:00:00"
+        }
+    }
+}
